@@ -1,0 +1,10 @@
+# Direct runtime dependencies for CFGAN on Python 3.12.
+# For a specific CPU or CUDA build, install PyTorch 2.9.1 first.
+pyqlib==0.9.7
+torch==2.9.1
+numpy==2.4.0
+pandas==2.3.3
+tqdm==4.67.1
+tensorboard==2.20.0
+plotly==6.5.1
+torch-geometric==2.7.0
